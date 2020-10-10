@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "varsion": "0.0.1",
+  "scripts": {
+    "webpack-dev": "npx webpack-dev-server",
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
